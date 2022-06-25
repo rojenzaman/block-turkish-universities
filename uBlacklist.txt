@@ -80,7 +80,6 @@
 /gazi.edu.tr/
 /gidatarim.edu.tr/
 /giresun.edu.tr/
-/github.io/
 /gop.edu.tr/
 /gsu.edu.tr/
 /gtu.edu.tr/
