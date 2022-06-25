@@ -193,6 +193,7 @@
 /usak.edu.tr/
 /uskudar.edu.tr/
 /yasar.edu.tr/
+/ybu.edu.tr/
 /yeditepe.edu.tr/
 /yesevi.edu.tr/
 /yildiz.edu.tr/
